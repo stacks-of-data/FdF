@@ -105,7 +105,7 @@ int	read_map(char **argv, t_fdf *fdf)
 		return (0);
 	}
 	fdf->height_data = (int **)alloc_arr_2d(fdf->cols, fdf->rows, sizeof(int));
-	if (!fdf->height)
+	if (!fdf->height_data)
 		return (free_mapdata(map_data));
 	fdf->points_color = (u_int32_t **)alloc_arr_2d(fdf->cols,
 			fdf->rows, sizeof(u_int32_t));
