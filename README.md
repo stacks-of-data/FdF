@@ -21,13 +21,13 @@ Example of how my FdF draw the map in isometric projection:
 ![screenshot1](images/screenshot1.png)  
 In orthographic projection:  
 ![screenshot2](images/screenshot2.png)  
-Examples with bigger maps:  
+Examples with heavier maps:  
 ![screenshot3](images/screenshot3.png)  
 ![screenshot4](images/screenshot4.png)  
 ![screenshot5](images/screenshot5.png)  
 ![screenshot6](images/screenshot6.png)  
 Resources:  
-Roation Matrix: https://en.wikipedia.org/wiki/Rotation_matrix  
+Rotation Matrix: https://en.wikipedia.org/wiki/Rotation_matrix  
 42 MinilibX docs: https://harm-smits.github.io/42docs/  
 Isometric Projection: https://en.wikipedia.org/wiki/Isometric_projection  
 DDA Line Drawing Algortihm: https://www.geeksforgeeks.org/dda-line-generation-algorithm-computer-graphics/  
